@@ -38,7 +38,7 @@
     "traceur": "0.0.111",
     "tslint": "^5.20.1",
     "tslint-language-service": "^0.9.9",
-    "ws": "^4.1.0"
+    "ws": "^7.4.5"
   },
   "prettier": {
     "semi": false,
