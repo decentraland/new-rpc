@@ -27,7 +27,7 @@
     "@types/progress": "^2.0.3",
     "@types/rimraf": "^2.0.4",
     "@types/webpack": "^4.41.23",
-    "@types/webpack-sources": "^0.1.8",
+    "@types/webpack-sources": "^2.1.1",
     "@types/ws": "^4.0.2",
     "assert": "^1.5.0",
     "dcl-tslint-config-standard": "^1.1.0",
