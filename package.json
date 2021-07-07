@@ -21,7 +21,7 @@
   "bin": {},
   "homepage": "https://github.com/decentraland/new-rpc#readme",
   "devDependencies": {
-    "@types/express": "^4.17.8",
+    "@types/express": "^4.17.13",
     "@types/glob": "^5.0.36",
     "@types/mocha": "^5.2.7",
     "@types/progress": "^2.0.3",
